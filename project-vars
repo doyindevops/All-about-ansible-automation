@@ -1,0 +1,4 @@
+version: 1.0.0
+location: /home/adedoyindevops/nodejs-app 
+linux_name: doyin
+user_home_dir: /home/{{linux_name}}
